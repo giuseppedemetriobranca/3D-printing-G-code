@@ -1,0 +1,1 @@
+In questo progetto viene pubblicato un codice G-code per stampa 3D di un power bank con modulo 22,5 Watt con due batterie 21700. La stampante 3D utilizzata è una bambulab A1 mini e il filamento e un PLA o anche PETG
